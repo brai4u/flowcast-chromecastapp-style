@@ -11,10 +11,10 @@
 }
 
 .splash {
-  background-image: url(splash.png);
+  background-image: url(flowcast.png);
 }
 
 .watermark {
-  background-image: url(watermark.png);
+  background-image: url(flowcast.png);
   background-size: 57px 57px;
 }
