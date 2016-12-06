@@ -1,11 +1,9 @@
 .background {
   background-color:black;
-  background-size: 1920px 1080px;
 }
 
 .logo {
   background-image: url(flowcast.svg);
-  background-size: 300px 300px;
 }
 
 .progressBar {
@@ -14,7 +12,6 @@
 
 .splash {
   background-image: url(flowcast.svg);
-  background-size: 300px 300px;
 }
 
 .watermark {
