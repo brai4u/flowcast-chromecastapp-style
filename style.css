@@ -4,8 +4,6 @@
 
 .logo {
     background-image: url(flowcast.svg);
-    background-size: cover;
-    background-repeat: no-repeat;
 }
 
 .progressBar {
