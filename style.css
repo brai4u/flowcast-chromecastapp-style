@@ -4,9 +4,7 @@
 
 .logo {
     background-image: url(flowcast.svg);
-    height: 272px;
     background-size: cover;
-    width: 302px;
     background-repeat: no-repeat;
 }
 
