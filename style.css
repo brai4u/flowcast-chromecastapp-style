@@ -3,7 +3,8 @@
 }
 
 .logo {
-    background-image: url(flowcast.svg);
+  background-image: url(flowcast.svg);
+  background-size: 300px 300px;
 }
 
 .progressBar {
@@ -12,6 +13,7 @@
 
 .splash {
   background-image: url(flowcast.svg);
+  background-size: 300px 300px;
 }
 
 .watermark {
